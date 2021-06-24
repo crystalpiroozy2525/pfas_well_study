@@ -1,0 +1,2 @@
+# pfas_well_study
+Created a function in Python to allow the user input function to calculate State Funded Sites monitoring well's PFOA + PFOS levels, to exhibit their Health Advisory Levels (HAL), and to manage spatial data in csv files and dataframes with Pandas. Chained conditionals, such as if and else statements were generated to identify one type of sensitive receptor (hospitals) within a one mile radius of identified PFAS contaminated sites using spatial data in Northeast Florida. The results were visualized through a map produced by the Folium module.
